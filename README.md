@@ -29,7 +29,8 @@ This project showcases a clean and elegant bakery website, focusing on modern la
 
 ## 🛠️ Tech Stack
 
-**HTML5 • CSS3**
+- HTML5
+- CSS3
 
 ---
 
