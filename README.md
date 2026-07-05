@@ -36,7 +36,7 @@ This project showcases a clean and elegant bakery website, focusing on modern la
 
 ## 🌐 Live Demo
 
-🔗 **https://nargestohidloo.github.io/Flex-Grid/**
+🔗 **https://nargestohidloo.github.io/cake-shop-website/**
 
 ---
 
