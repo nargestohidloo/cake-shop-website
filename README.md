@@ -29,9 +29,7 @@ This project showcases a clean and elegant bakery website, focusing on modern la
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css" />
-</p>
+**HTML5 • CSS3**
 
 ---
 
